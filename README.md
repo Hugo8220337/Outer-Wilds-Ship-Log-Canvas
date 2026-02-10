@@ -1,7 +1,5 @@
 # 🪐 Outer Wilds Ship Log Canvas
 
-**A vibe-coded knowledge graph for your chaotic ideas.**
-
 ![Ship Log Demo](./assets/demo.gif)
 
 > Ever since I played **Outer Wilds**, I've been obsessed with the *Ship Log*. I searched everywhere for a note-taking tool that captured that specific feeling, but I never found one. So, I decided to **vibe code one myself :)**
